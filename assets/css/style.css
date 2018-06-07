@@ -188,7 +188,7 @@ h3, .sidebar, h2 {
   /* position: absolute; */
   bottom: 0px;
   width: 100%;
-  padding: 5px;
+  padding: 10px;
   margin-bottom: 0;
   font-weight: 300;
   line-height: 30px;
@@ -205,6 +205,11 @@ h3, .sidebar, h2 {
 .thumbnail {
   margin: 0px;
   height: 131.52px;
+}
+
+.work .code h3 {
+  background: lightgray;
+  color: #4aaaa5
 }
 
 /* contact page */
