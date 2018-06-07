@@ -180,13 +180,13 @@ h3, .sidebar, h2 {
 
 .work img {
   width: 100%;
-  border: 0 none;
+  border: 5px #4aaaa5 solid;
   opacity: 0.8;
 }
 
 .work h3 {
-  position: absolute;
-  bottom: 20px;
+  /* position: absolute; */
+  bottom: 0px;
   width: 100%;
   padding: 5px;
   margin-bottom: 0;
@@ -196,6 +196,15 @@ h3, .sidebar, h2 {
   text-align: center;
   background: #4aaaa5;
   border-bottom: 0;
+}
+
+.work a {
+  text-decoration: none;
+}
+
+.thumbnail {
+  margin: 0px;
+  height: 131.52px;
 }
 
 /* contact page */
