@@ -408,7 +408,7 @@ input[type=submit] {
   }
 
   .main-section {
-    float: none;
+    display: block;
     width: 100%;
     max-width: 550px;
     padding: 30px;
